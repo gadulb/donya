@@ -19,7 +19,7 @@ p{
 .nav_menu{
     padding-top: 10px;
     padding-bottom: 10px;
-    margin: 0%;        
+    margin: 0%;
 }
 
 /*.nav_menu a{
@@ -56,7 +56,7 @@ img{
 }
 
 footer{
-    background-color: #36ABD9;
+    background-color: rgb(110, 40, 172);
     text-align:center;
     padding: 20px;
     color: white;
@@ -89,7 +89,7 @@ footer{
 }
 
 .navbar{
-    background-color: #36ABD9;
+    background-color: rgb(110, 40, 172);
 }
 
 .navbar a{
