@@ -1,0 +1,169 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Poppins', sans-serif;
+}
+
+p{
+    font-size: 18px;
+}
+
+/*header{
+    background-color: #36ABD9;
+    padding-bottom: 60px;
+    padding-top: 05px;
+    padding-left: 10px;
+    padding-right: 10px;
+}*/
+
+.nav_menu{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 0%;        
+}
+
+/*.nav_menu a{
+    float: right;
+    margin-right: 20px;
+    margin-top: 15px;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}*/
+
+.clear{
+    clear: both;
+}
+
+#slogan_menu{
+    width: 75px;
+}
+
+.nome_menu{
+    margin-top: 20px;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.banner{
+    width: 100%;
+}
+
+img{
+    width: 100%;
+}
+
+footer{
+    background-color: #36ABD9;
+    text-align:center;
+    padding: 20px;
+    color: white;
+}
+
+.texto_home h1{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+}
+
+
+.resumo{
+    text-align: center;
+    width: 70%;
+}
+
+.container{
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 0 2%;
+}
+
+.colunas{
+    width: 33%;
+    width: 70%;
+}
+
+.colunas h2{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.navbar{
+    background-color: #36ABD9;
+}
+
+.navbar a{
+    color:white;
+}
+
+.navbar-toggler-icon{
+    color: white;
+}
+
+.login_margin{
+    margin-left: 20px;
+}
+
+.h1_título_topo{
+    margin-top: 30px;
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+}
+
+.imagem_sobre{
+    width: 20%;
+}
+
+.icone_footer{
+    width: 30px;
+    text-align: left;
+    margin-right: 20px;
+}
+
+.insta{
+    color: white;
+    text-decoration: none;
+}
+
+.ver_agr{ /*link do artigo e publicação*/
+    text-decoration: none;
+}
+
+.sobre_i{
+    font-size: 12px;
+}
+
+.tag_art_cie{ /*etiqueta*/
+    background-color: aquamarine;
+    border: 0;
+    padding: 4px;
+}
+
+.tag_blog{ /*etiqueta*/
+    background-color: rgb(255, 180, 245);
+    border: 0;
+    padding: 4px;
+}
+
+.tag_news{ /*etiqueta*/
+    background-color: rgb(255, 185, 127);
+    border: 0;
+    padding: 4px;
+}
+
+.tag_site{
+    background-color: palegreen;
+    border: 0;
+    padding: 4px;
+}
+
+.tt_art{ /*Titulo do Artigo na página principal de artigos*/
+    text-decoration: 0;
+    color: black;
+}
+
+.main_margin{
+    margin-top: 150px;
+}
+
