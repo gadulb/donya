@@ -134,36 +134,12 @@ footer{
     font-size: 12px;
 }
 
-.tag_art_cie{ /*etiqueta*/
-    background-color: aquamarine;
-    border: 0;
-    padding: 4px;
-}
-
-.tag_blog{ /*etiqueta*/
-    background-color: rgb(255, 180, 245);
-    border: 0;
-    padding: 4px;
-}
-
-.tag_news{ /*etiqueta*/
-    background-color: rgb(255, 185, 127);
-    border: 0;
-    padding: 4px;
-}
-
-.tag_site{
-    background-color: palegreen;
-    border: 0;
-    padding: 4px;
-}
-
 .tt_art{ /*Titulo do Artigo na página principal de artigos*/
     text-decoration: 0;
     color: black;
 }
 
 .main_margin{
-    margin-top: 150px;
+    margin-top: 140px;
 }
 

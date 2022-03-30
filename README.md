@@ -1,5 +1,5 @@
-# PI - USO EFICIENTE DA ÁGUA (UEDA)
+# OFICINA - RELACIONAMENTOS INTERPESSOAIS
 
-## Obejtivos
+## DONYA
 
-Conscientizar a população para fazerem o uso eficiente da água, através de artigos e fóruns em que a população possa compartilhar suas próprias formas de utilizar a água eficientemente, seus projetos e notificações sobre algum problema envolvendo o uso da água na cidade atraves de um site. envolvendo a população na causa.
+DONYA é um projeto criado por um grupo de 5 estudantes do Ensino Médio SENAC do curso técnico de INFORMÁTICA PARA INTERNET com o objetivo de unir comunidades de difrentes interesses interagirem entre si, criando discussões sobre tais temas de maneira respeitosa e agragadora a ambos os lados.
