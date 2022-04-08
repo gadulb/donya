@@ -134,12 +134,11 @@ footer{
     font-size: 12px;
 }
 
-.tt_art{ /*Titulo do Artigo na página principal de artigos*/
-    text-decoration: 0;
-    color: black;
-}
-
 .main_margin{
-    margin-top: 140px;
+    margin-top: 150px;
 }
 
+.comunidades{
+    background-color: rgb(208, 216, 136); 
+    border-radius: 10px;
+}
