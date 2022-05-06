@@ -138,16 +138,29 @@ footer{
     margin-top: 150px;
 }
 
+.com_links{
+    text-decoration: none;
+    color: black;
+}
+
 .com_anime{
     background-color: rgb(229, 145, 145); 
     border-radius: 10px;
     color: black;
+    width: 408px;
+    margin-right: 5px;
+    margin-left: 5px;
+    text-align: justify;
 }
                                                                                                   
 .com_jogos{
     background-color: rgb(229, 216, 145); 
     border-radius: 10px;
     color: black;
+    width: 408px;
+    margin-right: 5px;
+    margin-left: 5px;
+    text-align: justify;
 }
 
 
@@ -155,22 +168,38 @@ footer{
     background-color:rgb(145, 226, 229); 
     border-radius: 10px;
     color: black;
+    width: 408px;
+    margin-right: 5px;
+    margin-left: 5px;
+    text-align: justify;
 }
 
 .com_cosplay{
     background-color: rgb(229, 145, 194); 
     border-radius: 10px;
     color: black;
+    width: 408px;
+    margin-right: 5px;
+    margin-left: 5px;
+    text-align: justify;
 }
 
 .com_filmes{
     background-color: rgb(177, 145, 229); 
     border-radius: 10px;
     color: black;
+    width: 408px;
+    margin-right: 5px;
+    margin-left: 5px;
+    text-align: justify;
 }
 
 .com_pets{
     background-color: rgb(145, 229, 156); 
     border-radius: 10px;
     color: black;
+    width: 408px;
+    margin-right: 5px;
+    margin-left: 5px;
+    text-align: justify;
 }
