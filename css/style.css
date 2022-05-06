@@ -152,6 +152,36 @@ footer{
     margin-left: 5px;
     text-align: justify;
 }
+
+.com_anime_1{
+    background-color: rgb(229, 200, 145); 
+    border-radius: 10px;
+    color: black;
+    width: 408px;
+    margin-right: 5px;
+    margin-left: 5px;
+    text-align: justify;
+}
+
+.com_anime_2{
+    background-color: rgb(229, 145, 163); 
+    border-radius: 10px;
+    color: black;
+    width: 408px;
+    margin-right: 5px;
+    margin-left: 5px;
+    text-align: justify;
+}
+
+.com_anime_3{
+    background-color: rgb(145, 229, 177); 
+    border-radius: 10px;
+    color: black;
+    width: 408px;
+    margin-right: 5px;
+    margin-left: 5px;
+    text-align: justify;
+}
                                                                                                   
 .com_jogos{
     background-color: rgb(229, 216, 145); 
@@ -202,4 +232,16 @@ footer{
     margin-right: 5px;
     margin-left: 5px;
     text-align: justify;
+}
+
+.btn{
+    background-color: blueviolet;
+    color: white;
+    width: 300px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.checkbox{
+    width: 40px;
 }
