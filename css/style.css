@@ -65,6 +65,7 @@ footer{
 .texto_home h1{
     font-family: 'Open Sans', sans-serif;
     font-weight: bold;
+    color: white;
 }
 
 
@@ -244,4 +245,12 @@ footer{
 
 .checkbox{
     width: 40px;
+}
+
+.sobre_home{
+    background-color: rgb(110, 40, 172);
+    width: 800px;
+    color: white;
+    padding: 15px;
+    border-radius: 1em;
 }
